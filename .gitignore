@@ -1,0 +1,14 @@
+# Local KiCad state and lock files
+*.kicad_prl
+~*.lck
+*.kicad_pcb.lck
+*.kicad_sch.lck
+
+# Backups and generated review artifacts
+_review/
+*-backups/
+*.bak
+
+# OS metadata
+Thumbs.db
+.DS_Store

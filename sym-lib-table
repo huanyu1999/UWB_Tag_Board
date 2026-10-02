@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UWB_Tag") (type "KiCad") (uri "${KIPRJMOD}/Libs/symbols/UWB_Tag.kicad_sym") (options "") (descr "UWB Tag project symbols"))
+)
